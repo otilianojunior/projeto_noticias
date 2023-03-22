@@ -8,4 +8,3 @@ airflow-webserver.pid
 logs
 __pycache__
 webserer_config.py
-stadalone_admin_password.txt
