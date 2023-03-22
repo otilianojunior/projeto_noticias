@@ -1,5 +1,5 @@
-.venv
-stadalone_admin_password.txt
+venv
+standalone_admin_password.txt
 airflow.db
 airflow.cfg
 airflow-webserver.pid
@@ -8,3 +8,4 @@ airflow-webserver.pid
 logs
 __pycache__
 webserer_config.py
+plugins
