@@ -1,0 +1,2 @@
+apache-airflow == 2.5.1
+pymongo == 4.3.3
